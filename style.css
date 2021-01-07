@@ -3,6 +3,9 @@
 margin: 0;
 
 }
+.fs{
+    font-size: 20px;
+}
 img{
     max-width: 100%;
 }
